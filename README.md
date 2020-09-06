@@ -9,5 +9,4 @@ My family got tired of calculating tip, and even though calculating tip doesn't 
 <img width="396" alt="Screen Shot 2020-09-05 at 9 11 06 PM" src="https://user-images.githubusercontent.com/67395283/92318564-0c2a9580-efc3-11ea-82e1-c3008c48bc34.png">
 
 ## Technologies
-IDE: Eclipse
-Java Swing GUI Toolkit
+Java Swing GUI Toolkit, IDE: Eclipse
